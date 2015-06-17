@@ -1,0 +1,12 @@
+﻿Build started 6/17/15 4:16:56 AM.
+     1>Project "\\psf\home\documents\visual studio 2013\Projects\GlutTest\GlutTest\GlutTest.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\psf\home\documents\visual studio 2013\Projects\GlutTest\Release\GlutTest.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\ARToolKit5\lib\win32-i386" /LIBPATH:"C:\Program Files (x86)\Common Files\MSVC\freeglut\lib" ARICPd.lib ARMulti.lib ARMultid.lib ARosg.lib ARosgd.lib ARUtil.lib ARUtild.lib ARvideo.lib ARvideod.lib ARWrapper.lib ARWrapperd.lib Eden.lib glut32.lib KPM.lib KPMd.lib libjpeg.lib opencv_calib3d2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_imgproc2410.lib OpenThreads.lib osg.lib osgAnimation.lib osgDB.lib osgFX.lib osgGA.lib osgManipulator.lib osgParticle.lib osgPresentation.lib osgShadow.lib osgSim.lib osgTerrain.lib osgText.lib osgUtil.lib osgViewer.lib osgVolume.lib osgWidget.lib pthreadVC2.lib AR.lib AR2.lib AR2d.lib ARd.lib ARgsub.lib ARgsub_lite.lib ARgsub_lited.lib ARgsubd.lib ARICP.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\psf\home\documents\visual studio 2013\Projects\GlutTest\Release\GlutTest.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\psf\home\documents\visual studio 2013\Projects\GlutTest\Release\GlutTest.lib" /MACHINE:X86 /SAFESEH /ENTRY:"mainCRTStartup" Release\GlutTest.obj
+         Generating code
+         Finished generating code
+         GlutTest.vcxproj -> \\psf\home\documents\visual studio 2013\Projects\GlutTest\Release\GlutTest.exe
+     1>Done Building Project "\\psf\home\documents\visual studio 2013\Projects\GlutTest\GlutTest\GlutTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.59
